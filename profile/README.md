@@ -1,2 +1,4 @@
-Open-source software organization founded and maintained by  
+## Savvy Open
+
+Founded and maintained by  
 **Chung Lim Lee**
