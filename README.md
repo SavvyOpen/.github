@@ -1,2 +1,2 @@
-# .github
-Founded and maintained by Chung Lim Lee
+Open-source software organization founded and maintained by  
+**Chung Lim Lee**
