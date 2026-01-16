@@ -5,7 +5,7 @@ Founded and maintained by
 
 Many things can be achieved simply with the right idea.
 
-* SO Chat – a fast, secure, real-time web chat built from scratch using HTML, CSS, JavaScript, PHP, and MySQL.  Demonstrates advanced features that typical frameworks do not provide by default, such as live SSE (Server-Sent Events) messaging, portable chat history, incremental updates, single-session control, and group chats.
+* SO ChatX – a fast, secure, real-time web chat built from scratch using HTML, CSS, JavaScript, PHP, and MySQL.  Demonstrates advanced features that typical frameworks do not provide by default, such as live SSE (Server-Sent Events) messaging, portable chat history, incremental updates, single-session control, and group chats.
 
 * SO Gloper – A unified React library that combines state, logic, and dataflow with dual modes (quick setup vs maximum IDE support), dynamic state creation, built-in persistence, lazy loading, auto-immutability, and React 18+ concurrency—letting you build scalable, maintainable apps faster with minimal boilerplate.
 
